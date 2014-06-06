@@ -16,5 +16,6 @@ public final class GadgetAttribute {
 		public static final String GADGET_TYPE = "gadgetType"; 
 		public static final String UI_URL = "uiUrl";
 		public static final String HELP_URL = "helpUrl";
+		public static final String PRODUCT_CODE = "productCode";
 		
 }
