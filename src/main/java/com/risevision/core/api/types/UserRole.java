@@ -12,6 +12,6 @@ public final class UserRole {
 	public static final String SYSTEM_ADMINISTRATOR = "sa";
 	public static final String PURCHASER = "pu";
 	public static final String BILLING_ADMINISTRATOR = "ba";
-    public static final String DEVELOPER = "de";
+        public static final String DEVELOPER = "de";
 
 }
